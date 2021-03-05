@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="psprovider" />
+        <module name="routingprovider" />
+        <module name="topticsreveiver" />
+        <module name="rocketmq" />
+        <module name="routingconsumer" />
+        <module name="psconsumer" />
+        <module name="topics" />
+        <module name="mq (1) (com.bogewang)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mq" target="1.5" />
+      <module name="mq (1) (com.bogewang)" target="1.8" />
+      <module name="psconsumer" target="1.8" />
+      <module name="psprovider" target="1.8" />
+      <module name="rabbitmqDemo" target="1.5" />
+      <module name="rocketmq" target="1.8" />
+      <module name="routingconsumer" target="1.8" />
+      <module name="routingprovider" target="1.8" />
+      <module name="topics" target="1.8" />
+      <module name="topticsreveiver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="mq (1) (com.bogewang)" options="-parameters" />
+      <module name="psconsumer" options="-parameters" />
+      <module name="psprovider" options="-parameters" />
+      <module name="routingconsumer" options="-parameters" />
+      <module name="routingprovider" options="-parameters" />
+      <module name="topics" options="-parameters" />
+      <module name="topticsreveiver" options="-parameters" />
+    </option>
+  </component>
+</project>

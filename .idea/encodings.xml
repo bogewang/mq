@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/psconsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/psprovider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/routingconsumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/routingprovider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/topics/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rabbitmqDemo/topticsreveiver/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketmq/src/main/java" charset="UTF-8" />
+  </component>
+</project>

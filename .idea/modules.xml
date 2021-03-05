@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mq.iml" filepath="$PROJECT_DIR$/mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/mq/mq (1) (com.bogewang).iml" filepath="$PROJECT_DIR$/rabbitmqDemo/mq/mq (1) (com.bogewang).iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/psconsumer/psconsumer.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/psconsumer/psconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/psprovider/psprovider.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/psprovider/psprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/rabbitmqDemo.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/rabbitmqDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rocketmq/rocketmq.iml" filepath="$PROJECT_DIR$/rocketmq/rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/routingconsumer/routingconsumer.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/routingconsumer/routingconsumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/routingprovider/routingprovider.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/routingprovider/routingprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/topics/topics.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/topics/topics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqDemo/topticsreveiver/topticsreveiver.iml" filepath="$PROJECT_DIR$/rabbitmqDemo/topticsreveiver/topticsreveiver.iml" />
+    </modules>
+  </component>
+</project>

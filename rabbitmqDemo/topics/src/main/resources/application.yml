@@ -1,0 +1,14 @@
+spring:
+  rabbitmq:
+    username: guest
+    password: guest
+    host: 192.168.1.117
+    port: 5672
+    listener:
+      simple:
+        concurrency: 5 #消费端最小并发数
+        max-concurrency: 10 #消费端最大并发数
+        prefetch: 5 #一次请求中预处理的消息数量
+    cache:
+      channel:
+        size: 50 # 缓存的channel数量
